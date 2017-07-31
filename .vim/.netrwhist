@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/jr/RFID/ChameleonMini/Firmware/Chameleon-Mini'
+let g:netrw_dirhist_2='/Users/jr/RFID/ChameleonMini/Firmware/Chameleon-Mini/Application'
+let g:netrw_dirhist_3='/Users/jr/RFID/ChameleonMini/Firmware/Chameleon-Mini'
+let g:netrw_dirhist_4='/Users/jr/RFID/ChameleonMini/Firmware'
+let g:netrw_dirhist_5='/Users/jr/RFID/ChameleonMini/Firmware/Chameleon-Mini'
+let g:netrw_dirhist_6='/Users/jr/RFID/ChameleonMini/Firmware/Chameleon-Mini/Bin'
+let g:netrw_dirhist_7='/Users/jr/RFID/ChameleonMini/Firmware/Chameleon-Mini'
+let g:netrw_dirhist_8='/Users/jr/RFID/ChameleonMini/Firmware/Chameleon-Mini/Bin'
+let g:netrw_dirhist_9='/Users/jr/RFID/pm3-16/software/include'
